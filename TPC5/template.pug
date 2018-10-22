@@ -1,0 +1,63 @@
+extends layout
+
+block corpo
+    .w3-container
+        .w3-card-4
+            header.w3-container.w3-light-grey
+                h1= obra.titulo 
+            .w3-container
+                table.w3-table.w3-all
+                    tr
+                        th Pasta
+                        td 
+                            if obra.pasta
+                                p= obra.pasta
+                    tr
+                        th Título
+                        td
+                            if obra.titulo
+                                p= obra.titulo
+                    tr
+                        th Compositor
+                        td
+                            if obra.compositor
+                                p= obra.compositor
+                    tr
+                        th Instrumentos
+                        td 
+                            if obra.instrumentos
+                                
+                                .w3-container
+                                    table.w3-table.w3-all
+                                        each inst in obra.instrumentos 
+                                            tr  
+                                                th Nome
+                                                td
+                                                    if inst.nome   
+                                                        p= inst.nome
+                                            tr
+                                                th Partitura   
+                                                td
+                                                    if inst.partitura  
+                                                        p= inst.partitura.path
+                                            tr
+                                                th Voz 
+                                                td 
+                                                    if inst.voz
+                                                        p= inst.voz
+                                            tr
+                                                th Clave
+                                                td 
+                                                    if inst.clave
+                                                        p= inst.clave
+                                            tr
+                                                th Afinação
+                                                td
+                                                    if inst.afinacao
+                                                        p= inst.afinacao    
+            footer.w3-container.w3-light-grey
+                p
+                    a(href="http://localhost:5555/index")
+                        | Voltar à página principal
+                address Gerado por ArqSitsApp by 87
+                

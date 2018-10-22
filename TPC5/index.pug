@@ -1,0 +1,15 @@
+extends layout
+
+block corpo
+    .w3-container
+        .w3-card-4
+            header.w3-container.w3-light-grey
+                h3 Índice
+            .w3-container
+                table.w3-table.w3-bordered
+                    each c in ind.index.obra
+                        tr
+                            td 
+                                a(href='http://localhost:5555/obra/' + c.id)= c.titulo
+            footer.w3-container.w3-light-grey
+                address Gerado por MusicasApp by A78425
