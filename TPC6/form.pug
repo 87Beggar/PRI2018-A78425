@@ -1,0 +1,43 @@
+extends layout
+block content
+    .w3-container
+        .w3-card-4
+            header.w3-container.w3-teal
+                h3 Registo de Aluno
+            .w3-container
+                form.w3-container(action='/processaForm', method='POST')
+                    label.w3-text-teal
+                        b Nome
+                    input.w3-input.w3-border.w3-light-grey(type='text', name='nome')
+
+                    label.w3-text-teal
+                        b Número / Identificador
+                    input.w3-input.w3-border.w3-light-grey(type='text', name='numero')
+
+                    label.w3-text-teal
+                        b Curso
+                    input.w3-input.w3-border.w3-light-grey(type='text', name='curso')
+
+                    label.w3-text-teal
+                        b Instituição
+                    input.w3-input.w3-border.w3-light-grey(type='text', name='instituicao')
+
+                    label.w3-text-teal
+                        b Título da tese
+                    input.w3-input.w3-border.w3-light-grey(type='text', name='titulo')
+
+                    label.w3-text-teal
+                        b Data
+                    input.w3-input.w3-border.w3-light-grey(type='text', name='data')
+
+                    
+                    label.w3-text-grey
+                        b Mestrado
+                    input.w3-radio.w3-border.w3-light-grey(type='radio', name='tipo', value='Mestrado')
+                    label.w3-text-grey
+                        b Doutoramento
+                    input.w3-radio.w3-border.w3-light-grey(type='radio', name='tipo', value='Doutoramento')
+
+                    input.w3-btn.w3-blue-grey(type='submit', value='Enviar')
+            footer.w3-container.w3-teal
+                address Gerado por formApp

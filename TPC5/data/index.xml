@@ -5,16 +5,16 @@
 <titulo>Homenagem a J. Serra</titulo>
 </obra>
 <obra>
-<id>m10</id>
-<titulo>Senhora Nossa</titulo>
-</obra>
-<obra>
 <id>m100</id>
 <titulo>Hispania</titulo>
 </obra>
 <obra>
 <id>m101</id>
 <titulo>Juana de Arco</titulo>
+</obra>
+<obra>
+<id>m10</id>
+<titulo>Senhora Nossa</titulo>
 </obra>
 <obra>
 <id>m102</id>
@@ -25,12 +25,12 @@
 <titulo>Uma Flor Sobre o Túmulo</titulo>
 </obra>
 <obra>
-<id>m104</id>
-<titulo>Pela Lei e Pela Grei</titulo>
-</obra>
-<obra>
 <id>m105</id>
 <titulo>São Sebastião</titulo>
+</obra>
+<obra>
+<id>m104</id>
+<titulo>Pela Lei e Pela Grei</titulo>
 </obra>
 <obra>
 <id>m107</id>
@@ -49,12 +49,12 @@
 <titulo>Despedida</titulo>
 </obra>
 <obra>
-<id>m11</id>
-<titulo>Invocação a Deus</titulo>
-</obra>
-<obra>
 <id>m110</id>
 <titulo>El Angel Blanco</titulo>
+</obra>
+<obra>
+<id>m11</id>
+<titulo>Invocação a Deus</titulo>
 </obra>
 <obra>
 <id>m111</id>
@@ -69,12 +69,12 @@
 <titulo>A Tribute To Harry James</titulo>
 </obra>
 <obra>
-<id>m114</id>
-<titulo>The Witch And The Saint</titulo>
-</obra>
-<obra>
 <id>m115</id>
 <titulo>Presidente António Conde</titulo>
+</obra>
+<obra>
+<id>m114</id>
+<titulo>The Witch And The Saint</titulo>
 </obra>
 <obra>
 <id>m116</id>
@@ -105,12 +105,12 @@
 <titulo>Suite de Natal</titulo>
 </obra>
 <obra>
-<id>m123</id>
-<titulo>La Forza Del Destino</titulo>
-</obra>
-<obra>
 <id>m124</id>
 <titulo>Aeternum</titulo>
+</obra>
+<obra>
+<id>m123</id>
+<titulo>La Forza Del Destino</titulo>
 </obra>
 <obra>
 <id>m125</id>
@@ -125,40 +125,40 @@
 <titulo>Grand March</titulo>
 </obra>
 <obra>
-<id>m128</id>
-<titulo>Hino de Vila Verde</titulo>
-</obra>
-<obra>
 <id>m129</id>
 <titulo>Hallelujah</titulo>
 </obra>
 <obra>
-<id>m13</id>
-<titulo>Casa de S. Paulo</titulo>
+<id>m128</id>
+<titulo>Hino de Vila Verde</titulo>
 </obra>
 <obra>
 <id>m130</id>
 <titulo>You Raise Me Up</titulo>
 </obra>
 <obra>
-<id>m14</id>
-<titulo>Filarmonia</titulo>
+<id>m13</id>
+<titulo>Casa de S. Paulo</titulo>
 </obra>
 <obra>
 <id>m131</id>
 <titulo>Alvamar Overture</titulo>
 </obra>
 <obra>
+<id>m14</id>
+<titulo>Filarmonia</titulo>
+</obra>
+<obra>
 <id>m15</id>
 <titulo>Caçadores do I</titulo>
 </obra>
 <obra>
-<id>m18</id>
-<titulo>12 de Abril</titulo>
-</obra>
-<obra>
 <id>m17</id>
 <titulo>Homenagem a Vila Verde</titulo>
+</obra>
+<obra>
+<id>m18</id>
+<titulo>12 de Abril</titulo>
 </obra>
 <obra>
 <id>m19</id>
@@ -167,6 +167,10 @@
 <obra>
 <id>m2</id>
 <titulo>Armindo Alves</titulo>
+</obra>
+<obra>
+<id>m22</id>
+<titulo>Marcha Eslava</titulo>
 </obra>
 <obra>
 <id>m20</id>
@@ -197,32 +201,24 @@
 <titulo>Ross Roy</titulo>
 </obra>
 <obra>
-<id>m23</id>
-<titulo>Fate of the Gods</titulo>
-</obra>
-<obra>
 <id>m3</id>
 <titulo>1989</titulo>
-</obra>
-<obra>
-<id>m22</id>
-<titulo>Marcha Eslava</titulo>
-</obra>
-<obra>
-<id>m33</id>
-<titulo>Paquito Chocolatero</titulo>
-</obra>
-<obra>
-<id>m32</id>
-<titulo>Cavalaria Ligeira</titulo>
 </obra>
 <obra>
 <id>m31</id>
 <titulo>Highlights from 'Chess'</titulo>
 </obra>
 <obra>
-<id>m34</id>
-<titulo>Xabia</titulo>
+<id>m23</id>
+<titulo>Fate of the Gods</titulo>
+</obra>
+<obra>
+<id>m32</id>
+<titulo>Cavalaria Ligeira</titulo>
+</obra>
+<obra>
+<id>m33</id>
+<titulo>Paquito Chocolatero</titulo>
 </obra>
 <obra>
 <id>m35</id>
@@ -233,28 +229,36 @@
 <titulo>Hispânico</titulo>
 </obra>
 <obra>
-<id>m4</id>
-<titulo>Manuel Joaquim ALmeida</titulo>
+<id>m34</id>
+<titulo>Xabia</titulo>
 </obra>
 <obra>
-<id>m41</id>
-<titulo>Sonhos de Portugal</titulo>
+<id>m4</id>
+<titulo>Manuel Joaquim ALmeida</titulo>
 </obra>
 <obra>
 <id>m40</id>
 <titulo>Xutos Medley</titulo>
 </obra>
 <obra>
+<id>m41</id>
+<titulo>Sonhos de Portugal</titulo>
+</obra>
+<obra>
 <id>m42</id>
 <titulo>Pilatus: Mountain of Dragons</titulo>
+</obra>
+<obra>
+<id>m43</id>
+<titulo>Marcha Radetzky</titulo>
 </obra>
 <obra>
 <id>m44</id>
 <titulo>Vila Franca</titulo>
 </obra>
 <obra>
-<id>m43</id>
-<titulo>Marcha Radetzky</titulo>
+<id>m45</id>
+<titulo>Momentos Menores</titulo>
 </obra>
 <obra>
 <id>m46</id>
@@ -273,12 +277,12 @@
 <titulo>Tannhauser Ouverture</titulo>
 </obra>
 <obra>
-<id>m50</id>
-<titulo>Harmonique</titulo>
-</obra>
-<obra>
 <id>m5</id>
 <titulo>Holiday in Rio</titulo>
+</obra>
+<obra>
+<id>m50</id>
+<titulo>Harmonique</titulo>
 </obra>
 <obra>
 <id>m51</id>
@@ -289,24 +293,20 @@
 <titulo>Aguas do Botaréu</titulo>
 </obra>
 <obra>
-<id>m53</id>
-<titulo>Fantasma da Ópera</titulo>
-</obra>
-<obra>
 <id>m54</id>
 <titulo>Jigs: Duas Danças Tradicionais Irlandesas</titulo>
-</obra>
-<obra>
-<id>m55</id>
-<titulo>La Tuba Bregosa</titulo>
 </obra>
 <obra>
 <id>m56</id>
 <titulo>Cidade Esposende</titulo>
 </obra>
 <obra>
-<id>m45</id>
-<titulo>Momentos Menores</titulo>
+<id>m53</id>
+<titulo>Fantasma da Ópera</titulo>
+</obra>
+<obra>
+<id>m55</id>
+<titulo>La Tuba Bregosa</titulo>
 </obra>
 <obra>
 <id>m57</id>
@@ -317,16 +317,16 @@
 <titulo>Gibraltar</titulo>
 </obra>
 <obra>
-<id>m59</id>
-<titulo>Moment for Morricone</titulo>
-</obra>
-<obra>
 <id>m6</id>
 <titulo>São Martinho</titulo>
 </obra>
 <obra>
 <id>m60</id>
 <titulo>Poeta e Aldeão</titulo>
+</obra>
+<obra>
+<id>m59</id>
+<titulo>Moment for Morricone</titulo>
 </obra>
 <obra>
 <id>m61</id>
@@ -337,28 +337,28 @@
 <titulo>Immer Kleiner</titulo>
 </obra>
 <obra>
-<id>m64</id>
-<titulo>Horizonte da Razão</titulo>
-</obra>
-<obra>
 <id>m63</id>
 <titulo>Filhos da Nação</titulo>
 </obra>
 <obra>
-<id>m66</id>
-<titulo>La Storia</titulo>
+<id>m64</id>
+<titulo>Horizonte da Razão</titulo>
 </obra>
 <obra>
 <id>m65</id>
 <titulo>Latin Pop Special</titulo>
 </obra>
 <obra>
-<id>m67</id>
-<titulo>Zé Pedro</titulo>
+<id>m66</id>
+<titulo>La Storia</titulo>
 </obra>
 <obra>
 <id>m68</id>
 <titulo>Macarena</titulo>
+</obra>
+<obra>
+<id>m67</id>
+<titulo>Zé Pedro</titulo>
 </obra>
 <obra>
 <id>m69</id>
@@ -373,12 +373,12 @@
 <titulo>Hosanna in excelsis</titulo>
 </obra>
 <obra>
-<id>m71</id>
-<titulo>Jerusalen</titulo>
-</obra>
-<obra>
 <id>m72</id>
 <titulo>S. João de Braga</titulo>
+</obra>
+<obra>
+<id>m71</id>
+<titulo>Jerusalen</titulo>
 </obra>
 <obra>
 <id>m73</id>
@@ -389,12 +389,12 @@
 <titulo>Juízo Final</titulo>
 </obra>
 <obra>
-<id>m76</id>
-<titulo>Beira Mar</titulo>
-</obra>
-<obra>
 <id>m75</id>
 <titulo>Guilherme Tell</titulo>
+</obra>
+<obra>
+<id>m76</id>
+<titulo>Beira Mar</titulo>
 </obra>
 <obra>
 <id>m77</id>
@@ -421,16 +421,16 @@
 <titulo>Freitas</titulo>
 </obra>
 <obra>
-<id>m82</id>
-<titulo>Vale de Cambra - 100 anos</titulo>
-</obra>
-<obra>
 <id>m83</id>
 <titulo>O Inferno</titulo>
 </obra>
 <obra>
-<id>m85</id>
-<titulo>Una Noche en Granada</titulo>
+<id>m82</id>
+<titulo>Vale de Cambra - 100 anos</titulo>
+</obra>
+<obra>
+<id>m84</id>
+<titulo>Slavonic Rhapsody nº3</titulo>
 </obra>
 <obra>
 <id>m86</id>
@@ -445,10 +445,6 @@
 <titulo>Marta Agustín</titulo>
 </obra>
 <obra>
-<id>m84</id>
-<titulo>Slavonic Rhapsody nº3</titulo>
-</obra>
-<obra>
 <id>m88</id>
 <titulo>Enrique López</titulo>
 </obra>
@@ -457,16 +453,16 @@
 <titulo>Libertadores</titulo>
 </obra>
 <obra>
-<id>m9</id>
-<titulo>Súplica</titulo>
-</obra>
-<obra>
 <id>m90</id>
 <titulo>Coldplay on Stage</titulo>
 </obra>
 <obra>
 <id>m91</id>
 <titulo>The Magic Of Christmas</titulo>
+</obra>
+<obra>
+<id>m9</id>
+<titulo>Súplica</titulo>
 </obra>
 <obra>
 <id>m92</id>
@@ -485,16 +481,16 @@
 <titulo>El Angel Blanco</titulo>
 </obra>
 <obra>
+<id>m97</id>
+<titulo>Marchas de Lisboa</titulo>
+</obra>
+<obra>
 <id>m98</id>
 <titulo>Fiesta de las Trompetas</titulo>
 </obra>
 <obra>
 <id>m99</id>
 <titulo>Selecção Quinta do Bill</titulo>
-</obra>
-<obra>
-<id>m97</id>
-<titulo>Marchas de Lisboa</titulo>
 </obra>
 <obra>
 <id>m119</id>
@@ -505,6 +501,11 @@
 <titulo>Homenagem ao Dr Manuel Vaz</titulo>
 </obra>
 <obra>
+<id>m85</id>
+<titulo>Una Noche en Granada</titulo>
+</obra>
+<obra>
 <id>m96</id>
 <titulo>Innuendo</titulo>
 </obra>
+</index>
