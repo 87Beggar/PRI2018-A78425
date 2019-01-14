@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE manifesto SYSTEM "manifesto.dtd">
+<manifesto>
+    <meta>
+        <id></id>
+        <título>Teste de PRI</título>
+        <subtítulo></subtítulo>
+        <dinício></dinício>
+        <dfim></dfim>
+        <supervisor>
+            <nome>José Carlos Ramalho</nome>
+            <email>jcr@di.uminho.pt</email>
+            <website>http://www.di.uminho.pt/~jcr</website>
+        </supervisor>
+    </meta>
+    <equipe>
+        <elemento>
+            <nome>Alexandre Dias</nome>
+            <id>A78425</id>
+            <email>a78425@alunos.uminho.pt</email>
+            <website></website>
+            <foto path=""/>
+        </elemento>
+    </equipe>
+    <resumo>
+        <para>Para o exercício 1 foi utilizada uma base de dados em mongo, pelo que para correr o programa será necessário colocar o mongo daemon em execução primeiro.</para>
+        <para>Deverá ainda ser corrido o comando npm install, para instalar as dependências do node e npm start para iniciar o servidor.</para>
+
+        <para>Para o exercício 2 foi utilizado um ficheiro json colocado na mesma diretoria da API de atividades. Este foi analisado e manipulado através de jsonfile.</para>
+        <para>Para executar o código e guardar o ficheiro foi executada a instrução node getMySportsDataset.js > mySports.json</para>
+    </resumo>
+    <resultados>
+        <resultado path="mySportRecords">My sport records</resultado>
+        <resultado path="myTwitter">My Twitter</resultado>
+    </resultados>
+</manifesto>
